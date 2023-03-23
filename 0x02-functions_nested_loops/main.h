@@ -5,5 +5,7 @@
 
 /* Prototype de la fonction _putchar */
 int _putchar(char c);
+/* Prototype de la fonction print_alphabet */
+void print_alphabet(void);
 
 #endif /* MAIN_H */
